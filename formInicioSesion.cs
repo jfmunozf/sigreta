@@ -67,6 +67,8 @@ namespace SistemaGestion_ProgramasExtension
                         }
                     }
                 }
+                //Se cierra el objeto rdr    
+                rdr.Close();
             }
             //Se captura algún error en la conexión a la BD
             catch (MySqlException ex)
