@@ -36,14 +36,18 @@ namespace SistemaGestion_ProgramasExtension
                 //Se abre la conexión al servidor de BD
                 conn.Open();
 
-                /* Se define la consulta con un SELECT y se concatena a la consulta
-                   el valor introducido en el TextBox txtNombreUsuario */
-                string sql = "SELECT contrasena FROM usuarios WHERE email = '" + txtNombreUsuario.Text + "'";
-
+                /* Se define la consulta con un SELECT usando parámetros
+                 * en lugar de concatenar los valores directamente */              
+                string sql = "SELECT contrasena FROM usuarios WHERE email = @email";
+                
                 /* Se define un objeto Command de MySQL y se le pasa como
                    parámetro la conexión a la BD y la consulta 
                    hecha con SELECT */
                 MySqlCommand cmd = new MySqlCommand(sql, conn);
+
+                /* Se asigna al parámetros @email el valor leído
+                 * en el TextBox txtNombreUsuario */
+                cmd.Parameters.AddWithValue("@email", txtNombreUsuario.Text);
 
                 /* En este objeto rdr queda almacenado el resultado
                    de la consulta hecha con SELECT */
