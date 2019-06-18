@@ -1,0 +1,15 @@
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\sigreta.csprojAssemblyReference.cache
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion_ProgramasExtension.formInicioSesion.resources
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion_ProgramasExtension.Properties.Resources.resources
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\sigreta.csproj.GenerateResource.cache
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\sigreta.csproj.CoreCompileInputs.cache
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.exe
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.pdb
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\SistemaGestion-ProgramasExtension.exe.config
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\SistemaGestion-ProgramasExtension.exe
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\SistemaGestion-ProgramasExtension.pdb
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\MySql.Data.dll
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\Google.Protobuf.dll
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\MySql.Data.xml
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\sigreta.csproj.CopyComplete

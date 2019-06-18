@@ -1,0 +1,10 @@
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\SistemaGestion-ProgramasExtension.exe.config
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\SistemaGestion-ProgramasExtension.exe
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\bin\Debug\SistemaGestion-ProgramasExtension.pdb
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.csprojAssemblyReference.cache
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion_ProgramasExtension.formInicioSesion.resources
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion_ProgramasExtension.Properties.Resources.resources
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.csproj.GenerateResource.cache
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.csproj.CoreCompileInputs.cache
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.exe
+C:\Users\jmunoz\source\repos\SistemaGestion-ProgramasExtension\obj\Debug\SistemaGestion-ProgramasExtension.pdb
